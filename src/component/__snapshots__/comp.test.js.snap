@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Comp should match snapshots 1`] = `
+.c0 {
+  color: red;
+}
+
+<div
+  class="c0"
+>
+  test
+</div>
+`;
+
+exports[`Comp should match snapshots 2`] = `
+<div
+  class="sc-bdVaJa rOCEJ"
+>
+  test
+</div>
+`;
